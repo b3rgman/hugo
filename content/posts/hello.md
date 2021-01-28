@@ -1,13 +1,14 @@
-+++ 
-draft = false
-date = 2021-01-27T21:34:44-05:00
-title = "Hello World"
-description = "Just saying hi to the world!"
-info = "Just saying hi to the world!"
-slug = ""
-authors = []
-tags = []
-categories = []
-externalLink = ""
-series = []
 +++
+authors = []
+categories = []
+date = 2021-01-28T02:34:44Z
+description = "Just saying hi to the world!"
+externalLink = ""
+info = ""
+series = []
+slug = ""
+tags = []
+title = "Hello World"
+
++++
+Thanks for stopping by!
