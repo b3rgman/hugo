@@ -32,3 +32,5 @@ fields:
 - type: list
   name: series
   label: series
+pages:
+- content/posts/post-2.md
