@@ -13,4 +13,4 @@ title = "Post 2"
 +++
 ## Markdown is cool.  Makes it easier to type.
 
-    ps-ef | grep -i devops
+    ps -ef | grep -i devops
