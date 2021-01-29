@@ -1,18 +1,14 @@
 +++
-draft = false
-date = 2021-01-27T21:34:44-05:00
-title = "About Me"
-#description = ""
-slug = ""
-authors = []
-tags = []
+authors = ["Josh Bergman"]
 categories = []
+date = 2021-01-28T02:34:44Z
 externalLink = ""
 series = []
+slug = ""
+tags = []
+title = "About Me"
+
 +++
+My name is Josh Bergman.  I am a DevOps Engineer focused on automation and containerization.  I enjoy using git, ansbile, hugo, vercel, terraform, node, go and much more.
 
-My Name is Josh Bergman {{ I like to code }}
-
-``` bash
-ps -ef | grep devops
-```
+Check out my projects.  Coming Soon!!
