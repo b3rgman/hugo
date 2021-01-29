@@ -11,4 +11,4 @@ tags = []
 title = "Hello World"
 
 +++
-Thanks for stopping by!
+First post to site.  This is joshbergman.dev
