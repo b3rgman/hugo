@@ -1,14 +1,21 @@
 +++
+
 authors = []
 categories = []
 date = 2021-01-28T02:34:44Z
-description = "Just saying hi to the world!"
+description = "Coming Soon"
 externalLink = ""
 info = ""
 series = []
 slug = ""
 tags = []
-title = "Hello World"
+title = "Coming Soon!"
 
 +++
-Thanks for stopping by!
+
+## //joshbergman.dev 
+
+# COMING SOON!
+
+Stay tuned for more content!!
+

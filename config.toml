@@ -1,5 +1,5 @@
-baseURL = "http://www.example.com"
-title = "joshbergman.dev"
+baseURL = "https://joshbergman.dev"
+title = "//joshbergman.dev"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -10,16 +10,16 @@ pygmentsStyle = "b2"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 
-disqusShortname = "joshbergman-dev"
+# disqusShortname = "joshbergman-dev"
 
 [params]
     author = "Josh Bergman"
     description = "joshbergman.dev"
     keywords = "blog,developer,personal"
-    info = "Devops Engineer automating everything"
-    #avatarURL = "images/avatar.jpg"*/
-    #gravatar = "john.doe@example.com"*/
-    footerContent = "Hello, World"
+    info = "Devops Engineer automating everything !!COMING SOON!!"
+    # avatarURL = "images/avatar.jpg"
+    #gravatar = "john.doe@example.com"
+    footerContent = "//joshbergman.dev COMING SOON!"
 
     dateFormat = "January 2, 2006"
 
@@ -29,7 +29,7 @@ disqusShortname = "joshbergman-dev"
     since = 2021
 
     # Git Commit in Footer, uncomment the line below to enable it.
-    #commit = "https://github.com/b3rgman/blog/tree"
+    # commit = "https://github.com/b3rgman/hugo/"
 
     rtl = false
 
@@ -166,12 +166,17 @@ disqusShortname = "joshbergman-dev"
             weight = 2
             url = "posts/"
 
-            [[languages.en.menu.main]]
-            name = "Projects"
-            weight = 3
-            url = "projects/"
+            # [[languages.en.menu.main]]
+            # name = "Pages"
+            # weight = 2
+            # url = "pages/"
 
-            [[languages.en.menu.main]]
-            name = "Contact me"
-            weight = 5
-            url = "contact/"
+            # [[languages.en.menu.main]]
+            # name = "Projects"
+            # weight = 3
+            # url = "projects/"
+
+            # [[languages.en.menu.main]]
+            # name = "Contact me"
+            # weight = 5
+            # url = "contact/"
