@@ -3,6 +3,7 @@ authors = []
 categories = []
 date = ""
 description = ""
+draft = true
 externalLink = ""
 info = ""
 series = []
