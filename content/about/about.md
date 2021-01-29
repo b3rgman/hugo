@@ -11,5 +11,8 @@ externalLink = ""
 series = []
 +++
 
+My Name is Josh Bergman {{ I like to code }}
 
-# Hello.  How are you?
+``` bash
+ps -ef | grep devops
+```
