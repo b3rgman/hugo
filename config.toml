@@ -17,7 +17,7 @@ pygmentsCodeFencesGuessSyntax = true
     description = "joshbergman.dev"
     keywords = "blog,developer,personal"
     info = "Devops Engineer automating everything !!COMING SOON!!"
-    # avatarURL = "images/avatar.jpg"
+    avatarURL = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
     footerContent = "//joshbergman.dev COMING SOON!"
 
