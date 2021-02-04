@@ -2,6 +2,7 @@
 authors = ["Josh Bergman"]
 categories = ["go", "wiki", "develop"]
 date = 2021-01-28T02:34:44Z
+draft = "true"
 description = "Creating a wiki in go"
 externalLink = ""
 info = "My creation of a go wiki"

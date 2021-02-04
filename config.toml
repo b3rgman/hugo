@@ -10,7 +10,7 @@ pygmentsStyle = "b2"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 
-disqusShortname = "joshbergman-dev"
+# disqusShortname = "joshbergman-dev"
 
 [params]
     author = "Josh Bergman"
