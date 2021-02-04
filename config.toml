@@ -1,5 +1,5 @@
 baseURL = "https://joshbergman.dev"
-title = "//joshbergman.dev"
+title = "joshbergman.dev"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -19,7 +19,7 @@ pygmentsCodeFencesGuessSyntax = true
     info = "Devops Engineer automating everything !!COMING SOON!!"
     avatarURL = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
-    footerContent = "//joshbergman.dev COMING SOON!"
+    footerContent = "COMING SOON!"
 
     dateFormat = "January 2, 2006"
 
@@ -121,34 +121,16 @@ pygmentsCodeFencesGuessSyntax = true
     icon = "fa fa-github"
     weight = 1
     url = "https://github.com/b3rgman/"
-#[[params.social]]
-#    name = "Gitlab"
-#    icon = "fa fa-gitlab"
-#    weight = 2
-#    url = "https://gitlab.com/johndoe/"
-#[[params.social]]
-#    name = "Twitter"
-#    icon = "fa fa-twitter"
-#    weight = 3
-#    url = "https://twitter.com/johndoe/"
+[[params.social]]
+   name = "Gitlab"
+   icon = "fa fa-gitlab"
+   weight = 2
+   url = "https://gitlab.com/b3rgman/"
 [[params.social]]
     name = "LinkedIn"
     icon = "fa fa-linkedin"
     weight = 4
     url = "https://www.linkedin.com/in/josh-bergman-5104b988"
-#[[params.social]]
-#    name = "Medium"
-#    icon = "fa fa-medium"
-#    weight = 5
-#    url = "https://medium.com/@johndoe"
-#[[params.social]]
-#    name = "RSS"
-#    icon = "fa fa-rss"
-#    weight = 6
-#    url = "https://myhugosite.com/index.xml"
-#    rel = "alternate"
-#    type = "application/rss+xml"
-
 
 [languages]
     [languages.en]
