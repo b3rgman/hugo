@@ -1,7 +1,7 @@
 +++
 
 authors = []
-categories = []
+categories = ["coming soon"]
 date = 2021-01-28T02:34:44Z
 description = "Coming Soon"
 externalLink = ""
