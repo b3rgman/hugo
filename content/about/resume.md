@@ -3,10 +3,10 @@ title: "Resume"
 date: 2021-04-03T09:58:18-04:00
 draft: true
 authors: ["Josh Bergman"]
-categories: ["resume"]
+categories: [""]
 externalLink: ""
 slug: "resume"
-tags: ["resume"]
+tags: [""]
 ---
 
 Below is my resume
