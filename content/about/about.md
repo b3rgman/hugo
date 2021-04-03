@@ -1,11 +1,11 @@
 +++
 authors = ["Josh Bergman"]
-categories = []
+categories = ["about", "main", "me"]
 date = 2021-01-28T02:34:44Z
 externalLink = ""
 series = []
 slug = ""
-tags = []
+tags = ["about"]
 title = "About Me"
 
 +++
