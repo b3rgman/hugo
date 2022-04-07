@@ -34,3 +34,4 @@ fields:
   label: series
 pages:
 - content/markdownpage.md
+- content/the-matrix.md
